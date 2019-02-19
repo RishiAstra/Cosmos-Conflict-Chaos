@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1024" height="1024" viewBox="0 0 1024 1024"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+<desc>'Cy-aw-1.blend', Cube, (Blender 2.78 (sub 0))</desc>
+<polygon stroke="black" stroke-width="1" points="1016.321,1018.591 1016.318,373.419 953.385,373.419 953.387,1018.591 " />
+<polygon stroke="black" stroke-width="1" points="953.387,1018.591 953.385,373.419 890.451,373.419 890.453,1018.591 " />
+<polygon stroke="black" stroke-width="1" points="890.453,1018.591 890.451,373.419 827.518,373.419 827.519,1018.592 " />
+<polygon stroke="black" stroke-width="1" points="827.519,1018.592 827.518,373.419 764.584,373.419 764.586,1018.592 " />
+<polygon stroke="black" stroke-width="1" points="764.586,1018.592 764.584,373.419 701.651,373.419 701.652,1018.592 " />
+<polygon stroke="black" stroke-width="1" points="701.652,1018.592 701.651,373.419 638.717,373.420 638.718,1018.592 " />
+<polygon stroke="black" stroke-width="1" points="638.718,1018.592 638.717,373.420 575.784,373.420 575.784,1018.592 " />
+<polygon stroke="black" stroke-width="1" points="575.784,1018.592 575.784,373.420 512.850,373.420 512.850,1018.592 " />
+<polygon stroke="black" stroke-width="1" points="1003.019,116.221 1003.019,59.934 956.070,69.272 977.610,121.275 " />
+<polygon stroke="black" stroke-width="1" points="1003.019,22.324 1003.019,9.117 936.623,22.324 941.677,34.526 " />
+<polygon stroke="black" stroke-width="1" points="1003.019,182.616 1003.019,116.221 977.610,121.275 " />
+<polygon stroke="black" stroke-width="1" points="1003.019,59.934 1003.019,22.324 941.677,34.526 956.070,69.272 " />
+<polygon stroke="black" stroke-width="1" points="1003.019,182.616 977.610,121.275 956.070,135.668 " />
+<polygon stroke="black" stroke-width="1" points="956.070,69.272 941.677,34.526 889.675,69.272 916.269,95.867 " />
+<polygon stroke="black" stroke-width="1" points="977.610,121.275 956.070,69.272 916.269,95.867 956.070,135.668 " />
+<polygon stroke="black" stroke-width="1" points="941.677,34.526 936.623,22.324 880.336,59.934 889.675,69.272 " />
+<polygon stroke="black" stroke-width="1" points="1003.019,182.616 956.070,135.668 941.677,157.208 " />
+<polygon stroke="black" stroke-width="1" points="916.269,95.867 889.675,69.272 854.928,121.275 889.675,135.668 " />
+<polygon stroke="black" stroke-width="1" points="956.070,135.668 916.269,95.867 889.675,135.668 941.677,157.208 " />
+<polygon stroke="black" stroke-width="1" points="889.675,69.272 880.336,59.934 842.727,116.221 854.928,121.275 " />
+<polygon stroke="black" stroke-width="1" points="941.677,157.208 889.675,135.668 880.336,182.616 936.623,182.616 " />
+<polygon stroke="black" stroke-width="1" points="854.928,121.275 842.727,116.221 829.520,182.616 842.727,182.616 " />
+<polygon stroke="black" stroke-width="1" points="1003.019,182.616 941.677,157.208 936.623,182.616 " />
+<polygon stroke="black" stroke-width="1" points="889.675,135.668 854.928,121.275 842.727,182.616 880.336,182.616 " />
+<polygon stroke="black" stroke-width="1" points="936.623,182.616 880.336,182.616 889.675,229.564 941.677,208.024 " />
+<polygon stroke="black" stroke-width="1" points="842.727,182.616 829.520,182.616 842.727,249.011 854.928,243.957 " />
+<polygon stroke="black" stroke-width="1" points="1003.019,182.616 936.623,182.616 941.677,208.024 " />
+<polygon stroke="black" stroke-width="1" points="880.336,182.616 842.727,182.616 854.928,243.957 889.675,229.564 " />
+<polygon stroke="black" stroke-width="1" points="1003.019,182.616 941.677,208.024 956.070,229.564 " />
+<polygon stroke="black" stroke-width="1" points="889.675,229.564 854.928,243.957 889.675,295.960 916.269,269.365 " />
+<polygon stroke="black" stroke-width="1" points="941.677,208.024 889.675,229.564 916.269,269.365 956.070,229.564 " />
+<polygon stroke="black" stroke-width="1" points="854.928,243.957 842.727,249.011 880.336,305.298 889.675,295.960 " />
+<polygon stroke="black" stroke-width="1" points="916.269,269.365 889.675,295.960 941.677,330.707 956.070,295.960 " />
+<polygon stroke="black" stroke-width="1" points="956.070,229.564 916.269,269.365 956.070,295.960 977.610,243.957 " />
+<polygon stroke="black" stroke-width="1" points="889.675,295.960 880.336,305.298 936.623,342.908 941.677,330.707 " />
+<polygon stroke="black" stroke-width="1" points="1003.019,182.616 956.070,229.564 977.610,243.957 " />
+<polygon stroke="black" stroke-width="1" points="977.610,243.957 956.070,295.960 1003.019,305.298 1003.019,249.011 " />
+<polygon stroke="black" stroke-width="1" points="941.677,330.707 936.623,342.908 1003.019,356.115 1003.019,342.908 " />
+<polygon stroke="black" stroke-width="1" points="1003.019,182.616 977.610,243.957 1003.019,249.011 " />
+<polygon stroke="black" stroke-width="1" points="956.070,295.960 941.677,330.707 1003.019,342.908 1003.019,305.298 " />
+<polygon stroke="black" stroke-width="1" points="503.142,875.334 503.142,824.764 503.142,807.908 503.142,740.481 1.887,875.334 " />
+<polygon stroke="black" stroke-width="1" points="503.142,523.572 503.142,571.524 1.887,571.527 1.887,523.572 " />
+<polygon stroke="black" stroke-width="1" points="503.142,427.670 1.887,427.670 503.142,292.818 503.142,360.244 503.142,377.101 " />
+<polygon stroke="black" stroke-width="1" points="503.142,971.235 503.142,923.293 1.887,923.293 1.887,971.235 " />
+<polygon stroke="black" stroke-width="1" points="503.142,475.629 503.142,523.572 1.887,523.572 1.887,475.629 " />
+<polygon stroke="black" stroke-width="1" points="503.142,923.293 503.142,875.334 1.887,875.334 1.887,923.293 " />
+<polygon stroke="black" stroke-width="1" points="503.142,427.670 503.142,475.629 1.887,475.629 1.887,427.670 " />
+<polygon stroke="black" stroke-width="1" points="503.142,1019.187 503.142,971.235 1.887,971.235 1.887,1019.191 " />
+<polygon stroke="black" stroke-width="1" points="1.887,875.334 503.142,740.481 1.887,615.168 " />
+<polygon stroke="black" stroke-width="1" points="1.887,427.670 1.887,167.504 503.142,292.818 " />
+<polygon stroke="black" stroke-width="1" points="778.029,107.178 648.809,61.224 648.809,153.130 " />
+<polygon stroke="black" stroke-width="1" points="633.933,155.209 648.809,153.130 648.809,61.224 633.933,59.145 " />
+<polygon stroke="black" stroke-width="1" points="537.869,107.177 519.587,199.082 537.869,155.209 " />
+<polygon stroke="black" stroke-width="1" points="537.869,107.177 537.869,59.145 519.588,15.271 " />
+<polygon stroke="black" stroke-width="1" points="648.809,153.130 633.933,155.209 616.503,164.618 " />
+<polygon stroke="black" stroke-width="1" points="648.809,61.224 616.503,49.736 633.933,59.145 " />
+<polygon stroke="black" stroke-width="1" points="633.933,59.145 616.503,49.736 519.588,15.271 537.869,59.145 " />
+<polygon stroke="black" stroke-width="1" points="616.503,164.618 633.933,155.209 537.869,155.209 519.587,199.082 " />
+<polygon stroke="black" stroke-width="1" points="128.142,136.806 377.443,182.759 377.443,90.853 " />
+<polygon stroke="black" stroke-width="1" points="377.443,182.759 403.473,221.715 403.473,51.896 377.443,90.853 " />
+<polygon stroke="black" stroke-width="1" points="403.473,221.715 442.430,247.746 442.430,25.866 403.473,51.896 " />
+<polygon stroke="black" stroke-width="1" points="442.430,247.746 488.383,256.886 488.383,16.725 442.430,25.866 " />
+<polygon stroke="black" stroke-width="1" points="653.297,321.007 701.295,321.007 701.295,261.010 653.297,261.010 " />
+<polygon stroke="black" stroke-width="1" points="629.299,321.007 653.297,321.007 653.297,261.010 629.299,261.010 " />
+<polygon stroke="black" stroke-width="1" points="557.303,321.007 605.300,321.007 605.300,261.010 557.303,261.010 " />
+<polygon stroke="black" stroke-width="1" points="701.295,321.007 749.292,321.007 749.292,261.010 701.295,261.010 " />
+<polygon stroke="black" stroke-width="1" points="605.300,321.007 629.299,321.007 629.299,261.010 605.300,261.010 " />
+<polygon stroke="black" stroke-width="1" points="557.303,261.010 605.300,261.010 606.138,213.020 605.300,213.013 557.303,213.013 " />
+
+</svg>

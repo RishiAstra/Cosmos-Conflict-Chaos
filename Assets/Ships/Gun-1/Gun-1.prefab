@@ -21,7 +21,6 @@ GameObject:
   - component: {fileID: 4774525945876548}
   - component: {fileID: 33660837092505554}
   - component: {fileID: 23395274688625466}
-  - component: {fileID: 95427101462906972}
   m_Layer: 0
   m_Name: Gun-1
   m_TagString: Untagged
@@ -57,7 +56,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: 56d33b758423b044fab07dd47a531036, type: 3}
+  - {fileID: 2100000, guid: 5b4e1a981f61aa4428af4fef8a42d3b0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -84,21 +83,3 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1781655790947152}
   m_Mesh: {fileID: 4300000, guid: 56d33b758423b044fab07dd47a531036, type: 3}
---- !u!95 &95427101462906972
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1781655790947152}
-  m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: 56d33b758423b044fab07dd47a531036, type: 3}
-  m_Controller: {fileID: 0}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
